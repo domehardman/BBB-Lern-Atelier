@@ -1,0 +1,33 @@
+BBB-Lern-Atelier
+Lern-Periode 3
+Name: Johannes Damian Jaeckle
+
+24.10.2025
+
+Grob-Planung
+Noten: 4, 5
+
+Veränderungen
+Keine...
+
+Projekte / neue Technologien
+weiterarbeiten an meinem spiel auf godot
+
+Generelle Ziele
+gegnersprite erstellen
+gegner als characterbody ins spiel implementieren
+benehmen für gegner erstellen
+inventar sowohl optimisieren als auch polishen
+neue helmtextur(die alte war hässlich)
+
+Planung 24.10.2025
+[] dem gegner stats (wie zum beispiel leben) geben und ihn in eine ressource eintragen für einfachere gegner ertellung 
+[] zweite art von gegner erstellen
+
+Lernperiode Reflexion
+sie lief ganz ok das optimisieren des inventars war einfacher als gedacht es lagt nun nicht mehr halb so 
+viel die gegner erstellung dauerte etwas länger jedoch da ich mich mit raycasts kaum auskannte 
+(die der gegner zur wand und klippenerkennung braucht) weshalb ich sie erst mal lernen zu benutzen musste
+ich wollte dem gegner eigentlich schon stats geben und ihn in eine ressource packen jedoch habe ich dafür
+wohl zu viel zeit mit raycasts verbraucht weshalb ich dazu am ende keine zeit mehr für stats hatte
+nächstes mal versuche ich mehr zeit ins spiel zu investieren als diese blöden raycasts
