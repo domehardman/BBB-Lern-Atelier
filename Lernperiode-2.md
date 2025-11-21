@@ -65,4 +65,39 @@ wohl zu viel zeit mit raycasts verbraucht weshalb ich dazu am ende keine zeit me
 nächstes mal versuche ich mehr zeit ins spiel zu investieren als diese blöden raycasts
 
 
+______________________________________________________________________________________________________________________________________________________________________________________________________ _
+
+
+Lernperiode 21.11.2025 – 28.11.2025
+Grob-Planung
+
+Noten: 4, 5
+Veränderungen
+
+Keine größeren Änderungen, Fokus bleibt auf dem Spielprojekt.
+Projekte / neue Technologien
+
+Weiterarbeit am Godot-Spiel, diesmal mit Schwerpunkt auf Gegner-Mechaniken und Ressourcenverwaltung.
+Generelle Ziele
+
+  Gegner-Stats (Leben, Schaden, Geschwindigkeit) erstellen und in eine Ressource auslagern
+
+  Erste zweite Gegnerart mit abweichendem Verhalten und Aussehen hinzufügen
+
+  Gegner-KI verfeinern: einfaches Patrouillieren
+
+  Inventar weiter polishen (z. B. Tooltips oder bessere Darstellung der Items)
+
+Planung 28.11.2025
+
+  [ ] Grosser gegner
+
+  [ ] simples PVE system
+
+  [ ] Playerstats
+
+Lernperiode Reflexion (Ausblick)
+ging supi hab alles locker implementieren können ausser die tooltips da brauchte ich ein bisschen hilfe von youtube aber dann gings und ih bin zufrieden damit
+
+
 
