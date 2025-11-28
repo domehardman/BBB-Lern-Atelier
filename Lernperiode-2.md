@@ -52,7 +52,7 @@ benehmen für gegner erstellen
 inventar sowohl optimisieren als auch polishen
 neue helmtextur(die alte war hässlich)
 
-Planung 24.10.2025
+Planung 21.11.2025
 [] dem gegner stats (wie zum beispiel leben) geben und ihn in eine ressource eintragen für einfachere gegner ertellung 
 [] zweite art von gegner erstellen
 
@@ -68,36 +68,62 @@ nächstes mal versuche ich mehr zeit ins spiel zu investieren als diese blöden 
 ______________________________________________________________________________________________________________________________________________________________________________________________________ _
 
 
-Lernperiode 21.11.2025 – 28.11.2025
+21.11.2025
+
 Grob-Planung
-
 Noten: 4, 5
+
 Veränderungen
+keine...
 
-Keine größeren Änderungen, Fokus bleibt auf dem Spielprojekt.
 Projekte / neue Technologien
+Weiterarbeit am Godot-Spiel
 
-Weiterarbeit am Godot-Spiel, diesmal mit Schwerpunkt auf Gegner-Mechaniken und Ressourcenverwaltung.
 Generelle Ziele
-
-  Gegner-Stats (Leben, Schaden, Geschwindigkeit) erstellen und in eine Ressource auslagern
-
-  Erste zweite Gegnerart mit abweichendem Verhalten und Aussehen hinzufügen
-
-  Gegner-KI verfeinern: einfaches Patrouillieren
-
-  Inventar weiter polishen (z. B. Tooltips oder bessere Darstellung der Items)
+Gegner-Stats (Leben, Schaden, Geschwindigkeit) erstellen und in eine Ressource auslagern
+Erste zweite Gegnerart mit abweichendem Verhalten und Aussehen hinzufügen
+Gegner-KI verfeinern: einfaches Patrouillieren
+Inventar weiter polishen (z. B. Tooltips oder bessere Darstellung der Items)
 
 Planung 28.11.2025
-
-  [ ] Grosser gegner
-
-  [ ] simples PVE system
-
-  [ ] Playerstats
+[ ] Grosser gegner
+[ ] simples PVE system
+[ ] Playerstats
 
 Lernperiode Reflexion (Ausblick)
 ging supi hab alles locker implementieren können ausser die tooltips da brauchte ich ein bisschen hilfe von youtube aber dann gings und ih bin zufrieden damit
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________ _
+
+
+28.11.2025
+
+Grob-Planung
+Noten: 4, 5
+
+Veränderungen
+keine...
+
+Projekte / neue Technologien
+Weiterarbeit am Godot-Spiel
+
+Generelle Ziele
+
+Einen großen Gegnertyp erstellen (Sprite + stats)
+
+Ein simples PvE-System integrieren (Grundlogik für Schaden/Zustand)
+
+Erste Version der Player-Stats anlegen
+
+Planung 05.12.2025
+[ ] Großer Gegner fertig implementieren
+[ ] PvE-System fertigen
+[ ] Player-Stats zu UI verbinden
+
+Lernperiode Reflexion (Ausblick)
+heute war scheisse irgendwas funktionierte mit meiner ressource nicht und ich habe jetzt den halben tag dran rumgefummelt (es funktioniert immer noch nicht) also muss ich den 2ten gegner wohl auf morgen verschieben
+da ich nicht mehr genug zeit hatte konnte ich auch das pve system nur halbwegs einfügen und am ende hatte ich nur schaden und knockback und wirklich basic schaden einfügen können schade
 
 
 
