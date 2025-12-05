@@ -126,4 +126,33 @@ heute war scheisse irgendwas funktionierte mit meiner ressource nicht und ich ha
 da ich nicht mehr genug zeit hatte konnte ich auch das pve system nur halbwegs einfügen und am ende hatte ich nur schaden und knockback und wirklich basic schaden einfügen können schade
 
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________ _
+
+
+05.12.2025
+
+Grob-Planung
+Noten: 4, 5
+
+Veränderungen
+ich habe heute an einem etwas anderen projekt gearbeitet
+
+Projekte / neue Technologien
+anderes projekt
+
+Generelle Ziele
+
+skripten verbessern
+
+über code mit chatgpt kommunizieren
+
+Planung 12.12.2025
+[ ] Großer Gegner fertig implementieren
+[ ] PvE-System fertigen
+[ ] Player-Stats zu UI verbinden
+
+Lernperiode Reflexion (Ausblick)
+ging mega schnell überraschenderweise hat auch spass gemacht obwohls noch nicht ganz funktioniert
+
+
 
