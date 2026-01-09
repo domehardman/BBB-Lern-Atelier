@@ -147,12 +147,36 @@ skripten verbessern
 über code mit chatgpt kommunizieren
 
 Planung 12.12.2025
-[ ] Großer Gegner fertig implementieren
-[ ] PvE-System fertigen
-[ ] Player-Stats zu UI verbinden
+[ ] fehlermeldungen von chatgpt ausbessern
+[ ] tests versuchen
 
 Lernperiode Reflexion (Ausblick)
 ging mega schnell überraschenderweise hat auch spass gemacht obwohls noch nicht ganz funktioniert
 
+_______________________________________________________________________________________________________________________________________________________________________________________________________ _
+
+
+12.12.2025
+
+Grob-Planung Noten: 4, 5
+
+Veränderungen weiterarbeit am chatgpt projekt
+
+Projekte / neue Technologien
+anderes projekt
+
+Generelle Ziele
+
+per code chatgpt fotos schicken
+
+die antwort von chatgpt auffangen und abspielen
+
+Planung 12.12.2025 
+[ ] Großer Gegner fertig implementieren
+[ ] PvE-System fertigen 
+[ ] Player-Stats zu UI verbinden
+
+das programm gibt mir keine fehlermeldungen mehr und ich habe meiner meinung nach ein einwandfrei funktionierendes programm 
+jedoch habe ich leider im moment das geld nicht es richtig auszutesten
 
 
