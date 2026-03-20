@@ -58,3 +58,17 @@ die arbeit ging hauptsächlich gut ich hatte einige probleme mit dem programm we
 nicht automatisch gespeichert hat wodurch ich einige sprites neu machen musste der rest lief allerdings gut
 einfügen konnte ich die animationen und jetzt sehen die gegner n bisschen besser aus
 
+_______________________________________________________________________________________________________________________________________________________
+
+20.03.2026
+
+Generelle ziele
+
+simplifizierung des chassis 
+
+Planung 27.03.2026
+
+[]erste crashtests
+
+ging super (:
+
