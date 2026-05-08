@@ -8,7 +8,7 @@ Noten 5,5,4.5
 
 Veränderungen Keine...
 
-Projekte / neue Technologien weiterarbeiten an meinem spiel auf godot
+Projekte weiterarbeiten an meinem spiel auf godot
 
 Generelle Ziele
 
