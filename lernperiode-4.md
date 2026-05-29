@@ -29,3 +29,15 @@ Außerdem konnte ich die ersten Animationen erfolgreich einbauen und testen.
 Die größten Probleme mit Bugs wurden größtenteils behoben und das Inventar läuft stabiler als vorher.
 Insgesamt bin ich zufrieden mit dem Fortschritt, auch wenn ich merke, dass die Performance bei sehr vielen Items noch verbessert werden kann.
 Für die nächste Woche möchte ich mich vor allem auf Optimierung und Polishing konzentrieren, damit das System flüssiger und sauberer wirkt.
+
+29.05.26
+
+[]environment erstelle,
+[] assets wie bäume oder gras finden/machen
+
+Lernpriode reflexion
+ich habe mich nach ein weig recherche um zu garantieren das mein spiel wunderschön aussieht mich für die
+wohl schwierigste variante entschieden das environment zu machen und zwar durch einmalige procedurale generation
+für den terrain will ich eine externe app nutzen die mir den basisterrain auf dem ich danach aufbauen werde mit einpaar prompts schnell generieren kann
+ich bin noch nicht weit bisher gekmmen jedoch habe ich es geschafft herauszufinden wie man multimesh verwendet und wie man die grösse des grases
+random macht ich werde in der nächsten lektion aber trozdem an den lechen zielen arbeiten
