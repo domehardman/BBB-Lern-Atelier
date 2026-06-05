@@ -14,6 +14,8 @@ Generelle Ziele
 
 Inventar-System deutlich verbessert neue Rüstungs-Inventarfunktion fertig eingebaut Rüstung als Item funktioniert jetzt sauber erste Animationen angefangen und getestet
 
+_____________________________________________________________________________
+
 Planung 15.05.2026
 
 [] Inventar weiter optimieren (Performance verbessern bei vielen Items)
@@ -29,6 +31,8 @@ Außerdem konnte ich die ersten Animationen erfolgreich einbauen und testen.
 Die größten Probleme mit Bugs wurden größtenteils behoben und das Inventar läuft stabiler als vorher.
 Insgesamt bin ich zufrieden mit dem Fortschritt, auch wenn ich merke, dass die Performance bei sehr vielen Items noch verbessert werden kann.
 Für die nächste Woche möchte ich mich vor allem auf Optimierung und Polishing konzentrieren, damit das System flüssiger und sauberer wirkt.
+
+____________________________________________________________________________________
 
 29.05.26
 
