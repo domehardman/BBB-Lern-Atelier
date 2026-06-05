@@ -19,8 +19,11 @@ _____________________________________________________________________________
 Planung 15.05.2026
 
 [] Inventar weiter optimieren (Performance verbessern bei vielen Items)
+
 [] UI vom Inventar polieren (besseres Layout + Icons)
+
 [] Rüstungs-System erweitern (Stats pro Rüstungsteil)
+
 [] mehr Animationen für Charakterbewegung einbauen
 
 Lernperiode Reflexion
@@ -37,6 +40,7 @@ ________________________________________________________________________________
 29.05.26
 
 []environment erstelle,
+
 [] assets wie bäume oder gras finden/machen
 
 Lernpriode reflexion
